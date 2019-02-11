@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="59px" viewBox="0 0 92 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Small-House</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Small-House" transform="translate(-18.000000, -35.000000)">
+            <g transform="translate(18.000000, 35.000000)">
+                <g id="Bush" transform="translate(73.000000, 51.000000)" fill="#B8E986">
+                    <path d="M0.341411415,8 C0.120308442,7.37444215 0,6.70127085 0,6 C0,2.6862915 2.6862915,0 6,0 C8.35905052,0 10.4001193,1.3614416 11.3803605,3.34147896 C11.8754941,3.12195716 12.4235047,3 13,3 C15.209139,3 17,4.790861 17,7 C17,7.34529957 16.956247,7.68038008 16.8739825,8 L0.341411415,8 Z" id="Combined-Shape"></path>
+                </g>
+                <g id="Bush" transform="translate(10.500000, 55.000000) scale(-1, 1) translate(-10.500000, -55.000000) translate(2.000000, 51.000000)" fill="#B8E986">
+                    <path d="M0.341411415,8 C0.120308442,7.37444215 0,6.70127085 0,6 C0,2.6862915 2.6862915,0 6,0 C8.35905052,0 10.4001193,1.3614416 11.3803605,3.34147896 C11.8754941,3.12195716 12.4235047,3 13,3 C15.209139,3 17,4.790861 17,7 C17,7.34529957 16.956247,7.68038008 16.8739825,8 L0.341411415,8 Z" id="Combined-Shape"></path>
+                </g>
+                <g id="Chimney" transform="translate(27.000000, 0.000000)" fill="#FBFAF6" stroke="#979797">
+                    <g>
+                        <rect id="Rectangle-3" x="2.5" y="3.5" width="5" height="7"></rect>
+                        <rect id="Rectangle-4" x="0.5" y="0.5" width="9" height="3" rx="1"></rect>
+                    </g>
+                </g>
+                <g id="Roof" transform="translate(14.000000, 6.000000)" stroke="#979797">
+                    <path d="M7.45193048,0.5 L56.5480695,0.5 C57.0034661,0.5 57.4013483,0.807684092 57.51591,1.24843535 L62,18.5 L2,18.5 L6.48408998,1.24843535 C6.59865167,0.807684092 6.9965339,0.5 7.45193048,0.5 Z" id="Rectangle" fill="#D8D8D8"></path>
+                    <path d="M1,18.5 L63,18.5 C63.5522847,18.5 64,18.9477153 64,19.5 L64,19.5 C64,20.0522847 63.5522847,20.5 63,20.5 L1,20.5 C0.44771525,20.5 6.76353751e-17,20.0522847 0,19.5 L0,19.5 C-6.76353751e-17,18.9477153 0.44771525,18.5 1,18.5 Z" id="Rectangle-3" fill="#FFFFFF"></path>
+                </g>
+                <path d="M0.5,58 L91.5,58 C91.7761424,58 92,58.2238576 92,58.5 L92,58.5 C92,58.7761424 91.7761424,59 91.5,59 L0.5,59 C0.223857625,59 3.38176876e-17,58.7761424 0,58.5 L0,58.5 C-3.38176876e-17,58.2238576 0.223857625,58 0.5,58 Z" id="Ground" fill="#979797"></path>
+                <rect id="Slab" stroke="#979797" fill="#D8D8D8" x="12.5" y="56.5" width="67" height="2" rx="1"></rect>
+                <rect id="Body" stroke="#979797" fill="#FBFAF6" x="15.5" y="26.5" width="61" height="30"></rect>
+                <g id="Window" transform="translate(23.000000, 37.000000)">
+                    <g stroke-width="1" fill-rule="evenodd">
+                        <path d="M2.5,11.5 L13.5,11.5 L13.5,1 C13.5,0.723857625 13.2761424,0.5 13,0.5 L3,0.5 C2.72385763,0.5 2.5,0.723857625 2.5,1 L2.5,11.5 Z" id="Rectangle-4" stroke="#979797" fill="#D8D8D8"></path>
+                        <rect id="Rectangle-5" fill="#9B9B9B" x="0" y="11" width="16" height="1" rx="0.5"></rect>
+                    </g>
+                    <rect id="Shadow" fill-opacity="0.5" fill="#9B9B9B" fill-rule="evenodd" x="3" y="1" width="10" height="1"></rect>
+                    <path d="M8,0.5 L8,11.5" id="Line" stroke="#979797" stroke-width="1" stroke-linecap="square"></path>
+                    <path d="M13.5,6 L2.5,6" id="Line-Copy" stroke="#979797" stroke-width="1" stroke-linecap="square"></path>
+                </g>
+                <g id="Door" transform="translate(43.000000, 12.000000)">
+                    <g>
+                        <rect id="Stoop" stroke="#979797" x="0.5" y="41.5" width="27" height="3" rx="1"></rect>
+                        <path d="M14.3884017,1.27290005 C14.3665279,1.24592226 14.3419026,1.22129699 14.3149249,1.1994231 C14.1004299,1.02550791 13.7855612,1.05840438 13.611646,1.27289942 L0.709841369,17.1850987 C0.637627713,17.2741621 0.598218988,17.3853392 0.598218988,17.5 C0.598218988,17.7761424 0.822076613,18 1.09821899,18 L26.9017854,18 C27.0164459,18 27.1276228,17.9605915 27.2166861,17.8883781 C27.4311814,17.7144633 27.4640784,17.3995947 27.2901635,17.1850993 L14.3884017,1.27290005 Z" id="Roof" stroke="#979797" fill="#FFFFFF"></path>
+                        <path d="M2.5,18.1753905 L2.5,41.5 L25.5,41.5 L25.5,18.1753905 L14.3904344,4.28843354 C14.3673685,4.25960118 14.3411799,4.23341254 14.3123475,4.21034665 C14.0967166,4.03784188 13.7820704,4.07280257 13.6095656,4.28843354 L2.5,18.1753905 Z" id="Combined-Shape" stroke="#979797" fill="#FBFAF6"></path>
+                        <g transform="translate(8.000000, 22.000000)">
+                            <rect id="Frame" stroke="#979797" fill="#D8D8D8" x="0.5" y="0.5" width="11" height="19"></rect>
+                            <circle id="Handle" fill="#979797" cx="3" cy="11" r="1"></circle>
+                        </g>
+                        <circle id="Oval-Window" stroke="#979797" fill="#D8D8D8" cx="14" cy="15" r="3.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
