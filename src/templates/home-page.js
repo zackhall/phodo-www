@@ -53,11 +53,14 @@ export const HomePageTemplate = ({ title, content, contentComponent, bannerImage
         <div className="container">
           <div className="row middle-xs">
             <div className="col-xs-12 col-sm-6">
+              <p className="subheader">
+                How we can help.
+              </p>
               <p className="display-title">
-                Pro Lighting
+                Ideal Lighting
               </p>
               <p style={{marginBottom: 35}}>
-                No more images where the windows are so bright that homebuyers can't see the stunning view outside. Or interiors so dark that homebuyers worry about the natural light. Whether it's professional lighting and flash photography or combining multiple images for an HDR image, we know how to achieve the beautiful well-lit photography that you expect for your property.
+                No more pictures with windows too bright for homebuyers to see the stunning view outside or interiors too dark to appreciate the space. Whether it's professional lighting or HDR photography, we know how to achieve the beautiful well-lit photography that you expect for your property.
               </p>
               <p className="display-title">
                 48-Hour Delivery
@@ -73,7 +76,7 @@ export const HomePageTemplate = ({ title, content, contentComponent, bannerImage
               </p>
             </div>
             <div className="col-xs-12 col-sm-6" style={{ textAlign: 'center' }}>
-              <img src={wellPhoto} style={{ width: '75%' }} />
+              <img src={wellPhoto} style={{ width: '80%' }} />
             </div>
           </div>
         </div>
@@ -81,6 +84,11 @@ export const HomePageTemplate = ({ title, content, contentComponent, bannerImage
 
       <section>
         <div className="container">
+          <div className="row">
+            <div className="col-xs-12">
+              <p className="subheader">Simple pricing.</p>
+            </div>
+          </div>
           <div className="row" style={{ textAlign: 'center' }}>
             <div className="col-xs-12 col-sm-4">
               <img src={pricingSm} />

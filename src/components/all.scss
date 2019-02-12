@@ -4,11 +4,38 @@
 $color-primary: #0C4D49; // Cyprus
 $color-secondary: #FC5851; // Sunset Orange
 $color-body: #FBFAF6; // Vista White
+$color-neutral: #414f57; // River Bed
 
 $font-display: 'Crimson Text', serif;
 $font-display-weight: 400;
 $font-body: 'Open Sans', sans-serif;
 $font-body-weight: 300;
+
+html {
+  font-size: 12px;
+
+  @media screen and (min-width: 48em) {
+    & {
+      font-size: 13px;
+    }
+  }
+
+  @media only screen and (min-width: 64em) {
+    & {
+      font-size: 14px;
+    }
+  }
+
+  @media only screen and (min-width: 75em) {
+    & {
+      font-size: 16px;
+    }
+  }
+}
+
+// @media screen and (min-width) {
+//   font-size: 10px;
+// }
 
 body {
   font-family: $font-body;
@@ -19,6 +46,11 @@ body {
 
 section {
   overflow-x: hidden;
+}
+
+.container {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .no-gutter > [class^="col-"] {
@@ -42,33 +74,62 @@ h1, h2, h3, h4, h5, h6, .display-title, .display-title-xl {
 }
 
 body { font-size: 100%; }
-h1 { font-size: 3em; }
-h2 { font-size: 2.25em; }
-h3 { font-size: 1.75em; }
-h4 { font-size: 1.25em; }
+h1 { font-size: 3rem; }
+h2 { font-size: 2.25rem; }
+h3 { font-size: 1.75rem; }
+h4 { font-size: 1.25rem; }
 p {
-  font-size: 1.125em;
+  font-size: 1.125rem;
   line-height: 1.5;
 }
 
 .display-title-xl {
-  font-size: 96px;
-  line-height: 120px;
+  font-size: 4.5rem;
+  line-height: 6.25rem;
   margin: 0;
+
+  @media screen and (min-width: 75em) {
+    & {
+      font-size: 6rem;
+      line-height: 7.5rem;
+    }
+  }
 }
 
 .display-title {
-  font-size: 72px;
-  line-height: 100px;
+  font-size: 4rem;
+  line-height: 5.5rem;
   margin: 0;
+
+  @media screen and (min-width: 75em) {
+    & {
+      font-size: 4.5rem;
+      line-height: 6.25rem;
+    }
+  }
 }
 
 .display-subtitle {
   font-family: $font-body;
   font-weight: 300;
-  font-size: 26px;
-  line-height: 44px;
+  font-size: 1.625rem;
+  line-height: 2.75rem;
   color: rgba($color-body, 0.75);
+
+  // @media screen and (min-width: 75em) {
+  //   & {
+  //     font-size: 4.5rem;
+  //     line-height: 6.25rem;
+  //   }
+  // }
+}
+
+.subheader {
+  font-family: $font-body;
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 3rem;
+  color: $color-neutral;
 }
 
 .navbar {
